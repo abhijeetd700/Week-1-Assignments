@@ -44,3 +44,7 @@ What happens behind the scenes when we type github.com in a browser?
 
 **NOTE :-**
 * The rendering process by browsers is a gradual process it will try to display contents on the screen as soon as possible and will not wait until all HTML is parsed before starting to build and layout the render tree. Parts of the content will be parsed and displayed, while the process continues with the rest of the contents that keeps coming from the network. 
+
+### 7. References
+* https://www.freecodecamp.org/news/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.7l3tokoh1
+* https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
